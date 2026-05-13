@@ -10,18 +10,3 @@ redirect_from:
 {% include base_path %}
 
 [Download CV](/cv_resume/CV_resume.pdf)
-
-Education
-======
-* Nanjing University
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Contact
-======
-* Email: [liangmi@smail.nju.edu.cn](mailto:liangmi@smail.nju.edu.cn)
-* Address: Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China.
