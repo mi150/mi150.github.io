@@ -13,6 +13,12 @@ My current research interests include LLM serving systems, and embodied AI, espe
 
 My research has been published in top-tier venues including SIGCOMM, NSDI, EuroSys, and INFOCOM, and journals including ToN and IJCV.
 
+## Education
+
+* Ph.D. in Computer Science, Nanjing University (Sep. 2024 - Present)
+* M.S. in Computer Science, Nanjing University (Sep. 2021 - Jun. 2024)
+* B.S. in Software Engineering, Shandong University (Sep. 2017 - Jun. 2021)
+
 ## Contact
 
 Email: [liangmi@smail.nju.edu.cn](mailto:liangmi@smail.nju.edu.cn)
