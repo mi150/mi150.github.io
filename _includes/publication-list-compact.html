@@ -15,7 +15,7 @@
       {% endunless %}
       <p class="publication-list-compact__item">
         <strong><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></strong><br />
-        {{ post.authors }}<br />
+        {% include highlight-publication-author.html text=post.authors %}<br />
         <em>{{ post.venue_short | default: post.venue }}</em>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
         {% if post.paperurl %}
           [<a href="{{ post.paperurl }}">paper</a>]
