@@ -1,6 +1,7 @@
 {% include base_path %}
 
 <div class="publication-list-compact">
+  <p><small>* Corresponding author; † Co-first author.</small></p>
   {% assign homepage_publication_order = "preprints,conferences,manuscripts" | split: "," %}
   {% for category_key in homepage_publication_order %}
     {% assign category = site.publication_category[category_key] %}
@@ -9,6 +10,9 @@
       {% if post.category != category_key %}
         {% continue %}
       {% endif %}
+      {% unless post.profile_publication %}
+        {% continue %}
+      {% endunless %}
       {% unless title_shown %}
         <h3>{{ category.title }}</h3>
         {% assign title_shown = true %}

@@ -8,8 +8,9 @@ date: 2023-05-17
 venue: "IEEE INFOCOM"
 venue_short: "IEEE INFOCOM"
 paperurl: "https://arxiv.org/abs/2301.08664"
-authors: "Tingting Yuan, Liang Mi, Weijun Wang, Haipeng Dai, and Xiaoming Fu"
-citation: "Tingting Yuan, Liang Mi, Weijun Wang, Haipeng Dai, and Xiaoming Fu. AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics. IEEE INFOCOM, 2023."
+authors: "Tingting Yuan†, Liang Mi†, Weijun Wang, Haipeng Dai, and Xiaoming Fu"
+citation: "Tingting Yuan†, Liang Mi†, Weijun Wang, Haipeng Dai, and Xiaoming Fu. AccDecoder: Accelerated Decoding for Neural-enhanced Video Analytics. IEEE INFOCOM, 2023."
+profile_publication: true
 ---
 
 Preprint available on [arXiv](https://arxiv.org/abs/2301.08664).

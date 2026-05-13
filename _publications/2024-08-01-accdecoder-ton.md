@@ -10,6 +10,7 @@ venue_short: "IEEE/ACM TON"
 paperurl: "https://doi.org/10.1109/TNET.2024.3375108"
 authors: "Liang Mi, Tingting Yuan, Weijun Wang, Haipeng Dai, Lin Sun, Jiaqi Zheng, Guihai Chen, and Xiaoming Fu"
 citation: "Liang Mi, Tingting Yuan, Weijun Wang, Haipeng Dai, Lin Sun, Jiaqi Zheng, Guihai Chen, and Xiaoming Fu. Accelerated Neural Enhancement for Video Analytics with Video Quality Adaptation. IEEE/ACM TON, 2024."
+profile_publication: true
 ---
 
 Publisher page available via [DOI](https://doi.org/10.1109/TNET.2024.3375108).

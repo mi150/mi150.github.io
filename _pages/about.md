@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at Nanjing University, advised by Prof. Guihai Chen and Assoc. Prof. Haipeng Dai. I am also a Research Intern at the Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Yunxin Liu and Prof. Cao Ting. Before that, I received my M.S. in Computer Science from Nanjing University and my B.S. in Software Engineering from Shandong University.
+I am a PhD student in Computer Science at Nanjing University, advised by Prof. Guihai Chen and Prof. Haipeng Dai. I am also a Research Intern at the Institute for AI Industry Research (AIR), Tsinghua University, advised by Prof. Yunxin Liu and Prof. Cao Ting. Before that, I received my M.S. in Computer Science from Nanjing University and my B.S. in Software Engineering from Shandong University.
 
 My current research interests include LLM serving systems, and embodied AI, especially memory/reasoning-powered VLA model and efficient VLA inference/training system.
 
@@ -19,7 +19,7 @@ Email: [liangmi@smail.nju.edu.cn](mailto:liangmi@smail.nju.edu.cn)
 
 Address: Nanjing University Xianlin Campus, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China.
 
-## Publications
+## Selected Publications
 
 {% include publication-list-compact.html %}
 
