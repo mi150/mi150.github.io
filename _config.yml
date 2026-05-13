@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mi Liang"
+title                    : "Liang Mi"
 title_separator          : "-"
-name                     : &name "Mi Liang"
-description              : &description "Academic personal website of Mi Liang"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Liang Mi"
+description              : &description "Academic personal website of Liang Mi"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mi150.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "mi150/mi150.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mi Liang"
+  name             : "Liang Mi"
   pronouns         : # example: "she/her"  
   bio              : "Nanjing University"
   location         : "Nanjing, Jiangsu, China"

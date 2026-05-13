@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mi Liang"
+title: "Liang Mi"
 author_profile: true
 redirect_from:
   - /about/

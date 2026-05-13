@@ -1,8 +1,8 @@
-# Mi Liang Personal Website
+# Liang Mi Personal Website
 
 This repository contains the GitHub Pages source for <https://mi150.github.io>.
 
-The site uses the Academic Pages Jekyll template, customized with Mi Liang's basic profile, contact information, CV page, and publications page.
+The site uses the Academic Pages Jekyll template, customized with Liang Mi's basic profile, contact information, CV page, and publications page.
 
 ## Local Preview
 
