@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](/cv_resume/CV_resume.pdf)
+
 Education
 ======
 * Nanjing University
